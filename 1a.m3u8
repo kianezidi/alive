@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="1080p"
+https://raw.githubusercontent.com/kianezidi/alive/refs/heads/main/1.jpg
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720,NAME="720p"
+https://raw.githubusercontent.com/kianezidi/alive/refs/heads/main/1.jpg
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=640x360,NAME="360p"
+https://raw.githubusercontent.com/kianezidi/alive/refs/heads/main/1.jpg
+#EXT-X-STREAM-INF:BANDWIDTH=600000,RESOLUTION=426x240,NAME="244p"
+https://raw.githubusercontent.com/kianezidi/alive/refs/heads/main/1.jpg
