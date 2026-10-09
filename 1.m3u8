@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=640x360,CODECS="avc1.4d401f,mp4a.40.2",NAME="360p"
-https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-360p.m3u8
+https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-240p.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=854x480,CODECS="avc1.4d401f,mp4a.40.2",NAME="480p"
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-480p.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="720p"
