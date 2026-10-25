@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="beIN1" tvg-name="beIN Sports 1" tvg-logo="" group-title="beIN Sports", beIN Sports 1 HD
+https://wideiptv.top/player/beINAR
+
+#EXTINF:-1 tvg-id="beIN2" tvg-name="beIN Sports 2" tvg-logo="" group-title="beIN Sports", beIN Sports 2 HD
+https://wideiptv.top/player/beINAR2
+
+#EXTINF:-1 tvg-id="beIN3" tvg-name="beIN Sports 3" tvg-logo="" group-title="beIN Sports", beIN Sports 3 HD
+https://wideiptv.top/player/beINAR3
+
+#EXTINF:-1 tvg-id="beIN4" tvg-name="beIN Sports 4" tvg-logo="" group-title="beIN Sports", beIN Sports 4 HD
+https://wideiptv.top/player/beINAR4
+
+#EXTINF:-1 tvg-id="beIN5" tvg-name="beIN Sports 5" tvg-logo="" group-title="beIN Sports", beIN Sports 5 HD
+https://wideiptv.top/player/beINAR5
+
+#EXTINF:-1 tvg-id="beIN6" tvg-name="beIN Sports 6" tvg-logo="" group-title="beIN Sports", beIN Sports 6 HD
+https://wideiptv.top/player/beINAR6
+
+#EXTINF:-1 tvg-id="beIN7" tvg-name="beIN Sports 7" tvg-logo="" group-title="beIN Sports", beIN Sports 7 HD
+https://wideiptv.top/player/beINAR7
+
+#EXTINF:-1 tvg-id="beIN8" tvg-name="beIN Sports 8" tvg-logo="" group-title="beIN Sports", beIN Sports 8 HD
+https://wideiptv.top/player/beINAR8
+
+#EXTINF:-1 tvg-id="beIN9" tvg-name="beIN Sports 9" tvg-logo="" group-title="beIN Sports", beIN Sports 9 HD
+https://wideiptv.top/player/beINAR9
+
+#EXTINF:-1 tvg-id="beINNEWS" tvg-name="beIN Sports News" tvg-logo="" group-title="beIN Sports", beIN Sports News HD
+https://wideiptv.top/player/beINNEWS
+
+#EXTINF:-1 tvg-id="beINGLOBAL" tvg-name="beIN Sports Open" tvg-logo="" group-title="beIN Sports", beIN Sports HD (الإخبارية/المفتوحة)
+https://wideiptv.top/player/beINGLOBAL
